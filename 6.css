@@ -1,0 +1,26 @@
+body {
+    padding: 25px;
+    background-color: #65a965;
+    color: black;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.volume {
+    color: #1dad1d;
+}
+
+.piano-key {
+    padding: 20px 40px;
+    font-size: 20px;
+    border: 2px solid #333;
+    background: white;
+    cursor: pointer;
+    transition: transform 0.1s ease, background 0.1s ease;
+}
+
+/* Lenyomott állapot */
+.piano-key.active {
+    transform: translateY(4px);
+    background: #b8b8b8;
+}

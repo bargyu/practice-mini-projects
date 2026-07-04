@@ -1,4 +1,10 @@
-These are the AI given mini tasks.
+# These are the mini projects Copilot gave me during learning
+
+## Each program consists of a .js and .html file and some has .css file as well
+
+Interestingly, Webstorm crashed out after a second oscillator was added to the code under Project 6. After clearing cache/reinstall and reverting back to one oscillator version it did run again properly.
+
+## List of mini programs:
 
 1: Hide button
 2: Doubling a number
